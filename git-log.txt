@@ -6,4 +6,8 @@ git remote add origin https://github.com/Krolikk30371/Praca_Z_Repozytorium_30371
 git push -u origin develop
 git checkout -b master
 git push -u origin master
+git checkout develop
 git checkout -b feature/documentation
+git add git-log.txt
+git commit -m "Add git-log.txt with list of git commands"
+git push -u origin feature/documentation
