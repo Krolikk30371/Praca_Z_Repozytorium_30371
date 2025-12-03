@@ -1,0 +1,9 @@
+git init
+git checkout -b develop
+git add .
+git commit -m "Initial project setup"
+git remote add origin https://github.com/Krolikk30371/Praca_Z_Repozytorium_30371.git
+git push -u origin develop
+git checkout -b master
+git push -u origin master
+git checkout -b feature/documentation
