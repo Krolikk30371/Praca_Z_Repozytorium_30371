@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wodar\\source\\repos\\PSK_Lab1_30371\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F202B0B-2AC2-420A-B11F-39EAF8EB87F3}|PSK_Lab1_30371\\PSK_Lab1_30371.csproj|c:\\users\\wodar\\source\\repos\\psk_lab1_30371\\psk_lab1_30371\\verifyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F202B0B-2AC2-420A-B11F-39EAF8EB87F3}|PSK_Lab1_30371\\PSK_Lab1_30371.csproj|solutionrelative:psk_lab1_30371\\verifyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerifyForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\wodar\\source\\repos\\PSK_Lab1_30371\\PSK_Lab1_30371\\VerifyForm.cs",
+              "RelativeDocumentMoniker": "PSK_Lab1_30371\\VerifyForm.cs",
+              "ToolTip": "C:\\Users\\wodar\\source\\repos\\PSK_Lab1_30371\\PSK_Lab1_30371\\VerifyForm.cs [Projekt]",
+              "RelativeToolTip": "PSK_Lab1_30371\\VerifyForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:58:09.635Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
